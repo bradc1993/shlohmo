@@ -3,17 +3,17 @@
   "content": "intro.md",
   "gallery": [{
     "title": "Image Title 1",
-    "copy": "For global styles.",
+    "copy": "Image subtitle 1.",
     "image": "../images/gallery/react-context.jpg"
   },
   {
     "title": "Image Title 2",
-    "copy": "Component-based for easy usage.",
+    "copy": "Image subtitle 2.",
     "image": "../images/gallery/page-transitions.jpg"
   },
   {
     "title": "Image Title 3",
-    "copy": "Including a polyfill for Safari.",
+    "copy": "Image subtitle 3.",
     "image": "../images/gallery/intersection-observer.jpg"
   }]
 }
