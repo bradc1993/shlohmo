@@ -4,16 +4,16 @@
   "gallery": [{
     "title": "Image Title 1",
     "copy": "Image subtitle 1.",
-    "image": "../images/gallery/react-context.jpg"
+    "image": "../images/gallery/shlohmo1.jpg"
   },
   {
     "title": "Image Title 2",
     "copy": "Image subtitle 2.",
-    "image": "../images/gallery/page-transitions.jpg"
+    "image": "../images/gallery/shlohmo2.jpg"
   },
   {
     "title": "Image Title 3",
     "copy": "Image subtitle 3.",
-    "image": "../images/gallery/intersection-observer.jpg"
+    "image": "../images/gallery/shlohmo3.jpg"
   }]
 }
