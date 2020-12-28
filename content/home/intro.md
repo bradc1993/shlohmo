@@ -1,1 +1,1 @@
-An artist template inspired by Bad Vibes.
+An artist template inspired by Shlohmo - Bad Vibes.
